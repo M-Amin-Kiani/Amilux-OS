@@ -1,7 +1,6 @@
 # Amilux-OS
 My custom operating system :
 
-kali shell :
  COMMANDS        
  1. info XX    - Checks file/dir exists
  2. all        - Shows files in directory
